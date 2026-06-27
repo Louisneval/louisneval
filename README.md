@@ -36,7 +36,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Blog<br><br>🌱 I am deepening my knowledge of Linux systems to optimize my development workflow, while also exploring full-stack web development, with a focus on front-end frameworks and back-end technologies, including MySQL databases..</p>
+<p align="left">
+🔭 Currently focused on building and improving full-stack web applications.<br><br>
+
+🌱 Working with modern web technologies including React, Node.js, and MySQL, with a strong focus on building real-world projects and improving code quality.<br><br>
+
+💡 Interested in backend architecture, API development, and practical software engineering skills through hands-on projects.
+</p>
 
 ###
 

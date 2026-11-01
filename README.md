@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋, I'm Louis Nevalainen <br>Beginner Full-Stack Engineer and Analyst, from Finland</h2>
 
 ###
 
@@ -36,13 +35,6 @@
 
 ###
 
-<p align="left">
-🔭 Currently focused on building and improving full-stack web applications.<br><br>
-
-🌱 Working with modern web technologies including React, Node.js, and MySQL, with a strong focus on building real-world projects and improving code quality.<br><br>
-
-💡 Interested in backend architecture, API development, and practical software engineering skills through hands-on projects.
-</p>
 
 ###
 
